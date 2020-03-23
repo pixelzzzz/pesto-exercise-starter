@@ -4,7 +4,7 @@
 
 ### Put the URL of the article below
 
- URL:https://medium.com/@kumar19900706/an-o-1-approach-for-implementing-the-lfu-77dca6f7b5ca
+ URL:https://medium.com/@kanishka/an-o-1-approach-for-implementing-the-lfu-77dca6f7b5ca
 
 _Example-_
 
